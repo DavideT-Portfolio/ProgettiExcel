@@ -16,4 +16,4 @@ Descrizione: fogli excel contenenti tabelle pivot per calcolare la valutazione m
 
 Funzionalità: Tabelle Pivot; Funzioni Condizionali (SE); Funzioni Matematiche/Statistiche (Media Aritmetica e Media Pesata).
 
-Download: 
+Download: [Analisi della Costumer Satisfaction.xlsx](https://github.com/user-attachments/files/17715722/Analisi.della.Costumer.Satisfaction.xlsx)
