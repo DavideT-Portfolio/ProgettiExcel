@@ -13,5 +13,7 @@ SOMMARIO:
 Progetto 3: Misurazione della costumer satisfaction: Analisi di Valutazione Utenti con Tabelle Pivot
 
 Descrizione: fogli excel contenenti tabelle pivot per calcolare la valutazione media degli utenti ad ogni domanda della survey e funzione condizionale (Foglio 3, cella C27) per copiare la valutazione nelle celle. 
+
 Funzionalità: Tabelle Pivot; Funzioni Condizionali (SE); Funzioni Matematiche/Statistiche (Media Aritmetica e Media Pesata).
+
 Download: 
