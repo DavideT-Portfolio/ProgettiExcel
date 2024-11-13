@@ -24,4 +24,6 @@ Descrizione: strumento per regolare la quantità di un prodotto in una specifica
 
 Funzionalità: Pulsanti direzionali
 
+Note: Funzioni nelle colonne colorate.
+
 Download: [Dati Vendite.xlsx](https://github.com/user-attachments/files/17734071/Dati.Vendite.xlsx)
