@@ -17,3 +17,11 @@ Descrizione: fogli excel contenenti tabelle pivot per calcolare la valutazione m
 Funzionalità: Tabelle Pivot; Funzioni Condizionali (SE); Funzioni Matematiche/Statistiche (Media Aritmetica e Media Pesata).
 
 Download: [Analisi della Costumer Satisfaction.xlsx](https://github.com/user-attachments/files/17715722/Analisi.della.Costumer.Satisfaction.xlsx)
+
+Progetto 4: Controllo interattivo per moltiplicatore con pulsanti direzionali
+
+Descrizione: strumento per regolare la quantità di un prodotto in una specifica cella 
+
+Funzionalità: Pulsanti direzionali
+
+Download: [Dati Vendite.xlsx](https://github.com/user-attachments/files/17734071/Dati.Vendite.xlsx)
